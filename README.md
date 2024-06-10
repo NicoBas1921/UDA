@@ -1,2 +1,2 @@
 # UDA
-Codes for homeworks of university
+Codes for homeworks of university (uptonow C,C++)
