@@ -6,7 +6,6 @@ import Vista.VistaJuego;
 import Modelo.Tablero;
 import javax.swing.SwingUtilities;
 import javax.swing.JOptionPane;
-import java.awt.event.ActionListener;
 
 public class SnakeGameLabII {
     public static void main(String[] args) {
